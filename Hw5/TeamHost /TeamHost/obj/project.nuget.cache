@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8w2Zf3MY6EWAmcN2IhC+IvwBUguEbwpAoovpr6I7ipXmxMzZJ16ElvID0tA4Vf71IaaiLynmnSzPP4V8Ix7VPQ==",
+  "dgSpecHash": "bV2T/qtk9q/nrUrH57ReDHFi1B9fTcJIIAvTWwNgFuL/jD78rmUIORzt9d9W7X5XFJVQEpFdoL+8pVoZDdNHsQ==",
   "success": true,
-  "projectFilePath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost/TeamHost.Web.csproj",
+  "projectFilePath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost/TeamHost.Web.csproj",
   "expectedPackageFiles": [
     "/Users/vadim/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vadim/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
