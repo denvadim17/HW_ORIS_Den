@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsjDD6QQ+zytQGgc1g0wYJBtnc4mqTfjLkRDUWvELQM8cExXAEOVB1ODpv0JNLaqC2asm87ckRVPE3E46cKVTg==",
+  "dgSpecHash": "DYBgv4P1TFXsiLhkeyDTFvMkvWpyfwt/kH/9c780u+IBOOAAAsvygDx6MBGN+SXE/X7MG4LaxtT5EVdVmUS5fw==",
   "success": true,
-  "projectFilePath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj",
+  "projectFilePath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/vadim/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/vadim/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

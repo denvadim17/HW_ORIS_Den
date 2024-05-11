@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj": {}
+    "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj": {
+    "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+        "projectUniqueName": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
         "projectName": "TeamHost.Infrastructure",
-        "projectPath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+        "projectPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
         "packagesPath": "/Users/vadim/.nuget/packages/",
-        "outputPath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/obj/",
+        "outputPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vadim/.nuget/NuGet/NuGet.Config"

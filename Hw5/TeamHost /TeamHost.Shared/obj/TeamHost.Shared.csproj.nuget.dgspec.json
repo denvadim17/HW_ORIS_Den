@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj": {}
+    "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj": {}
   },
   "projects": {
-    "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj": {
+    "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
+        "projectUniqueName": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
         "projectName": "TeamHost.Shared",
-        "projectPath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
+        "projectPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
         "packagesPath": "/Users/vadim/.nuget/packages/",
-        "outputPath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/obj/",
+        "outputPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vadim/.nuget/NuGet/NuGet.Config"

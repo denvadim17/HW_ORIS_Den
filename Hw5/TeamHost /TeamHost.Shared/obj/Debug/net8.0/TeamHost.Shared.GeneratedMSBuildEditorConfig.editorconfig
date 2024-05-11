@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeamHost.Shared
-build_property.ProjectDir = /Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Shared/
+build_property.ProjectDir = /Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw5/TeamHost /TeamHost.Shared/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
