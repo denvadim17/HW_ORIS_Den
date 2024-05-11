@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TeamHost.Shared/1.0.0": {
+        "runtime": {
+          "TeamHost.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeamHost.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

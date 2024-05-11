@@ -1,0 +1,145 @@
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.pokemon-card {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: #F8F9FA;
+  max-width: 250px;
+  flex: 1 0 250px;
+  margin: 10px;
+  box-shadow: 2px 4px 6px 4px rgba(0, 0, 0, 0.1);
+}
+.app {
+  font-family: 'Poppins', sans-serif;
+  font-size: calc(5px + 2vmin);
+  color: #F8F9FA;
+}
+
+.pokemon-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  
+}
+.type-card {
+  display: inline-block;
+  margin: 5px; 
+  padding: 5px 10px;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+}
+.pokemon-name {
+  color: #072AC8;
+  margin-left: 30px;
+  font-size: 1.2rem;
+  font-weight: normal;
+  
+}
+
+.pokemon-id {
+  color: #595F65;
+  margin-right: 30px;
+}
+.pokemon-image {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+}
+
+.types {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.type {
+  margin: 0 10px;
+}
+
+.bug {
+  color: #F8F9FA;
+  background-color: #009769;
+}
+.dragon {
+  color: #F8F9FA;
+  background-color: #2AC5B7;
+}
+.grass {
+  color: #F8F9FA;
+  background-color: #0EC273;
+}
+.steel {
+  color: #F8F9FA;
+  background-color: #74E3A9;
+}
+.dark {
+  color: #F8F9FA;
+  background-color: #474447;
+}
+.flying {
+  color: #F8F9FA;
+  background-color: #8C9DAF;
+}
+.normal {
+  color: #F8F9FA;
+  background-color: #C28DBB;
+}
+.ghost {
+  color: #F8F9FA;
+  background-color: #9B53A2;
+}
+.rock {
+  color: #F8F9FA;
+  background-color: #632E03;
+}
+.ground {
+  color: #F8F9FA;
+  background-color: #895524;
+}
+.fighting {
+  color: #F8F9FA;
+  background-color: #C84F00;
+}
+.fire {
+  color: #F8F9FA;
+  background-color: #DB390B;
+}
+.electric {
+  color: #F8F9FA;
+  background-color: #FFC000;
+}
+.poison {
+  color: #F8F9FA;
+  background-color: #6E42FF;
+}
+.psychic {
+  color: #F8F9FA;
+  background-color: #DC00B7;
+}
+.fairy {
+  color: #F8F9FA;
+  background-color: #EE4068;
+}
+.water {
+  color: #F8F9FA;
+  background-color: #4161EF;
+}
+.ice {
+  color: #F8F9FA;
+  background-color: #91E1EF;
+}
+.head {
+  background-color: #072AC8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

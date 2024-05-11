@@ -1,0 +1,648 @@
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/appsettings.json
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.exe
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.deps.json
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/refint/PokemonApi.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/ref/PokemonApi.dll
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/source/repos/WebApi/WebApi/obj/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/source/repos/WebApi/WebApi/bin/Debug/net8.0/Controllers/pokemons.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.exe
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Controllers/pokemons.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.deps.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/refint/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+C:/Users/mixov/OneDrive/Рабочий стол/учеба/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/ref/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Controllers/pokemons.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.exe
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.deps.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/refint/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.xml
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/obj/Debug/net8.0/ref/PokemonApi.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Humanizer.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Controllers/pokemons.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.deps.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Humanizer.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/refint/PokemonApi.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi/obj/Debug/net8.0/ref/PokemonApi.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Controllers/pokemons.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.deps.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Humanizer.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/refint/PokemonApi.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi/obj/Debug/net8.0/ref/PokemonApi.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/appsettings.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Controllers/pokemons.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.deps.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.runtimeconfig.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Humanizer.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.PokemonApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonApi.props
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonApi.props
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonApi.props
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/scopedcss/bundle/PokemonApi.styles.css
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.csproj.CopyComplete
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/refint/PokemonApi.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.xml
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.pdb
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/PokemonApi.genruntimeconfig.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi/obj/Debug/net8.0/ref/PokemonApi.dll

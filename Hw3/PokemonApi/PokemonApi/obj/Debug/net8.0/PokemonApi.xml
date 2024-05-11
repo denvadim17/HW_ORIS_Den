@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokemonApi</name>
+    </assembly>
+    <members>
+        <member name="M:PokemonApi.Controllers.BreedingController.GetAllBreedings">
+            <summary>
+            Метод для получения веса и роста
+            </summary>
+            <returns>Возращает список веса и роста всех покемонов</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.BreedingController.GetByIdBreeding(System.Int32)">
+            <summary>
+            Метод для получения веса и роста по идентификатору
+            </summary>
+            <param name="id">Идентификатор веса и роста</param>
+            <returns>Возвращает вес и рост покемона с указанным идентификатором</returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:PokemonApi.Controllers.BreedingController.PostBreeding(PokemonApi.Models.BreedingDto.BreedingCreateDto)">
+            <summary>
+            Метод для создания нового покемона
+            </summary>
+            <param name="breeding">Данные новых роста и веса</param>
+            <returns>Возвращает новые рост и вес</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.BreedingController.PutBreeding(System.Int32,PokemonApi.Models.BreedingDto.BreedingUpdateDto)">
+            <summary>
+            Метод для обновления роста и веса
+            </summary>
+            <param name="id"></param>
+            <param name="breeding"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.BreedingController.DeleteBreeding(System.Int32)">
+            <summary>
+            Метод для удаления роста и веса по их идентификатору
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.GetAll">
+            <summary>
+            Метод для получения всех покемонов
+            </summary>
+            <returns>Возвращает список всех покемонов в системе</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.GetById(System.Int32)">
+            <summary>
+            Метод для получения покемона по его идентификатору
+            </summary>
+            <param name="id">Идентификатор покемона</param>
+            <returns>Возвращает покемона с указанным идентификатором</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.GetByFilter(System.String)">
+            <summary>
+            Метод для покемонов по указаной строке поиска
+            </summary>
+            <returns>Возвращает список всех найденных покенов </returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.PostPokemon(PokemonApi.Models.PokemonDto.PokemonCreateDto)">
+            <summary>
+            Метод для создания нового покемона
+            </summary>
+            <param name="pokemon">Данные нового покемона</param>
+            <returns>Возвращает созданного покемона</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.PutPokemon(System.Int32,PokemonApi.Models.PokemonDto.PokemonUpdateDto)">
+            <summary>
+            Метод для обновления существующего покемона
+            </summary>
+            <param name="id">Идентификатор существующего покемона</param>
+            <param name="pokemon">Новые данные покемона</param>
+            <returns>Результат выполнения операции</returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.GetByIdOrName(System.String)">
+            <summary>
+            Метод для получения всей информации по одному покемону
+            </summary>
+            <returns>Возвращает полную информацию о покемоне по заданному Id или Name </returns>
+        </member>
+        <member name="M:PokemonApi.Controllers.PokemonController.DeletePokemon(System.Int32)">
+            <summary>
+            Метод для удаления покемона по его идентификатору
+            </summary>
+            <param name="id">Идентификатор покемона для удаления</param>
+            <returns>Результат выполнения операции</returns>
+        </member>
+    </members>
+</doc>

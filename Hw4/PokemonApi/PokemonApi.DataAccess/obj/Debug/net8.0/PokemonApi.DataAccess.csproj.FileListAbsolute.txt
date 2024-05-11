@@ -1,0 +1,54 @@
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.deps.json
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.AssemblyReference.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfoInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfo.cs
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/refint/PokemonApi.DataAccess.dll
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.pdb
+C:/Users/mixov/OneDrive/Рабочий стол/itis/4sem/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/ref/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.deps.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.AssemblyReference.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfoInputs.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfo.cs
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.CoreCompileInputs.cache
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/refint/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/ref/PokemonApi.DataAccess.dll
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.runtimeconfig.json
+/Users/vadim/Downloads/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.genruntimeconfig.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.deps.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.runtimeconfig.json
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.AssemblyReference.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfo.cs
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/refint/PokemonApi.DataAccess.dll
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.genruntimeconfig.cache
+/Users/vadim/Desktop/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/ref/PokemonApi.DataAccess.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.deps.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.runtimeconfig.json
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/bin/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/refint/PokemonApi.DataAccess.dll
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.pdb
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/PokemonApi.DataAccess.genruntimeconfig.cache
+/Users/vadim/Documents/homeworks/Hw3/PokemonApi/PokemonApi.DataAccess/obj/Debug/net8.0/ref/PokemonApi.DataAccess.dll

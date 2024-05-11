@@ -1,0 +1,383 @@
+
+.app {
+    font-family: 'Poppins', sans-serif;
+    font-size: calc(5px + 2vmin);
+    color: #F8F9FA;
+  }
+  
+  .pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  
+  .pokemon-card {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #F8F9FA;
+    max-width: 250px;
+    flex: 1 0 250px;
+    margin: 10px;
+    box-shadow: 2px 4px 6px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  .pokemon-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .pokemon-name {
+    color: #072AC8;
+    margin-left: 30px;
+    font-size: 1.2rem;
+    font-weight: normal;
+  }
+  
+  .pokemon-id {
+    color: #595F65;
+    margin-right: 30px;
+  }
+  
+  .pokemon-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .types {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .type {
+    margin: 0 10px;
+  }
+  
+
+  @media only screen and (min-width: 320px) {
+    .app {
+      font-size: calc(3px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 10px;
+    }
+  
+    .head1 {
+      padding: 10px;
+    }
+  
+    .card {
+      flex: 1 0 280px;
+      padding: 20px;
+    }
+  
+    .pokemon-list {
+      justify-content: space-between;
+    }
+  
+    .pokemon-card {
+      max-width: calc(50% - 20px);
+      flex: 1 0 calc(50% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 5px;
+    }
+  
+    .search-bar-input {
+      width: 250px;
+      height: 30px;
+    }
+  
+    .search-bar-button {
+      width: 30px;
+      height: 30px;
+    }
+  
+    /* Стили для PokemonCard */
+    .pokemon-info {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .pokemon-name {
+      margin-left: 0;
+    }
+  
+    .pokemon-id {
+      margin-right: 0;
+    }
+  }
+  
+  /* Смартфоны (480px и выше) */
+  @media only screen and (min-width: 480px) {
+    .app {
+      font-size: calc(4px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 15px;
+    }
+  
+    .head1 {
+      padding: 15px;
+    }
+  
+    .card {
+      flex: 1 0 300px;
+      padding: 25px;
+    }
+  
+    .pokemon-card {
+      max-width: calc(50% - 20px);
+      flex: 1 0 calc(50% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 10px;
+    }
+  
+    .search-bar-input {
+      width: 300px;
+      height: 35px;
+    }
+  
+    .search-bar-button {
+      width: 35px;
+      height: 35px;
+    }
+  }
+  
+
+  @media only screen and (min-width: 768px) {
+    .app {
+      font-size: calc(5px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 20px;
+    }
+  
+    .head1 {
+      padding: 20px;
+    }
+  
+    .card {
+      flex: 1 0 350px;
+      padding: 30px;
+    }
+  
+    .pokemon-list {
+      justify-content: space-between;
+    }
+  
+    .pokemon-card {
+      max-width: calc(20% - 20px);
+      flex: 1 0 calc(20% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 15px;
+    }
+  
+    .search-bar-input {
+      width: 400px;
+      height: 40px;
+    }
+  
+    .search-bar-button {
+      width: 40px;
+      height: 40px;
+    }
+  
+
+    .pokemon-info {
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    .pokemon-name {
+      margin-left: 30px;
+    }
+  
+    .pokemon-id {
+      margin-right: 30px;
+    }
+  }
+  
+
+  @media only screen and (min-width: 1024px) {
+    .app {
+      font-size: calc(6px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 25px;
+    }
+  
+    .head1 {
+      padding: 25px;
+    }
+  
+    .card {
+      flex: 1 0 400px;
+      padding: 35px;
+    }
+  
+    .pokemon-card {
+      max-width: calc(25% - 20px);
+      flex: 1 0 calc(25% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 20px;
+    }
+  
+    .search-bar-input {
+      width: 500px;
+      height: 45px;
+    }
+  
+    .search-bar-button {
+      width: 45px;
+      height: 45px;
+    }
+  }
+  
+
+  @media only screen and (min-width: 1280px) {
+    .app {
+      font-size: calc(7px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 30px;
+    }
+  
+    .head1 {
+      padding: 30px;
+    }
+  
+    .card {
+      flex: 1 0 450px;
+      padding: 40px;
+    }
+  
+    .pokemon-list {
+      justify-content: flex-start;
+    }
+  
+    .pokemon-card {
+      max-width: calc(25% - 20px);
+      flex: 1 0 calc(25% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 25px;
+    }
+  
+    .search-bar-input {
+      width: 600px;
+      height: 50px;
+    }
+  
+    .search-bar-button {
+      width: 50px;
+      height: 50px;
+    }
+  }
+  
+
+  @media only screen and (min-width: 1600px) {
+    .app {
+      font-size: calc(8px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 35px;
+    }
+  
+    .head1 {
+      padding: 35px;
+    }
+  
+    .card {
+      flex: 1 0 500px;
+      padding: 45px;
+    }
+  
+    .pokemon-card {
+      max-width: calc(25% - 20px);
+      flex: 1 0 calc(25% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 30px;
+    }
+  
+    .search-bar-input {
+      width: 700px;
+      height: 55px;
+    }
+  
+    .search-bar-button {
+      width: 55px;
+      height: 55px;
+    }
+  }
+  
+
+  @media only screen and (min-width: 1920px) {
+    .app {
+      font-size: calc(9px + 1.5vmin);
+    }
+  
+    .main {
+      padding: 40px;
+    }
+  
+    .head1 {
+      padding: 40px;
+    }
+  
+    .card {
+      flex: 1 0 550px;
+      padding: 50px;
+    }
+  
+    .pokemon-card {
+      max-width: calc(25% - 20px);
+      flex: 1 0 calc(25% - 20px);
+      margin: 10px;
+    }
+  
+    .search-bar {
+      padding: 35px;
+    }
+  
+    .search-bar-input {
+      width: 800px;
+      height: 60px;
+    }
+  
+    .search-bar-button {
+      width: 60px;
+      height: 60px;
+    }
+  }
+  

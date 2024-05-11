@@ -1,0 +1,34 @@
+.head {
+  background-color: #072AC8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-bar {
+  background-color: #072AC8;
+  padding: 10px;
+}
+
+.search-bar-input,
+.search-bar-button {
+  border-radius: 20px;
+}
+
+.search-bar-input {
+  background-color: #F8F9FA;
+  color: #595F65;
+  border: none;
+  width: 400px;
+  height: 40px;
+}
+
+.search-bar-button {
+  margin-left: 5px;
+  background-color: #000000;
+  color: #F8F9FA;
+  border: none;
+  width: 40px;
+  height: 40px;
+}

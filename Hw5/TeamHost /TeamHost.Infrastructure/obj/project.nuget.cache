@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NiA5YHj0Pi5Xzpf8+kOFnd3TmBU7wJBK8WlXZMulabGaZAvciUq9JnNiWKtA7DgWHPMEBn2x5h3F3kkCnK1qNQ==",
+  "success": true,
+  "projectFilePath": "/Users/vadim/Documents/homeworks/Hw5/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
