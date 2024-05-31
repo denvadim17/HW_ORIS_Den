@@ -1,0 +1,15 @@
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\bin\Release\net8.0\TeamHost.Application.deps.json
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\bin\Release\net8.0\TeamHost.Application.dll
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\bin\Release\net8.0\TeamHost.Application.pdb
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\bin\Release\net8.0\TeamHost.Domain.dll
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\bin\Release\net8.0\TeamHost.Domain.pdb
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.csproj.AssemblyReference.cache
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.AssemblyInfoInputs.cache
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.AssemblyInfo.cs
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.csproj.CoreCompileInputs.cache
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.csproj.CopyComplete
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.dll
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\refint\TeamHost.Application.dll
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\TeamHost.Application.pdb
+C:\Users\mixov\Downloads\Telegram Desktop\TeamHost\TeamHost\TeamHost\TeamHost.Application\obj\Release\net8.0\ref\TeamHost.Application.dll

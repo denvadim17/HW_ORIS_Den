@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Se5ZS3km/eH9qOI9eFGC2rtq91xJVC21tj65lddP0z0/FrzYEUUlTVJl3mHKK1FqMD9sz4rBn/8GqpDklCVtbw==",
+  "dgSpecHash": "KOxONaifmaiMnZ3mO6eJtknwUL4zL3IpiuA2UDRTeDWQzXWpvrnBuShss9oTJ18Eu8M1gMnH1G385yRwcO4DNw==",
   "success": true,
-  "projectFilePath": "/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/TeamHost.Persistence.csproj",
+  "projectFilePath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/TeamHost.Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/vadim/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vadim/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

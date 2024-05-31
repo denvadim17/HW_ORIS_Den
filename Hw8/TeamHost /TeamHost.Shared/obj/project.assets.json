@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vadim/Downloads/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
+      "projectUniqueName": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
       "projectName": "TeamHost.Shared",
-      "projectPath": "/Users/vadim/Downloads/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
+      "projectPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Shared/TeamHost.Shared.csproj",
       "packagesPath": "/Users/vadim/.nuget/packages/",
-      "outputPath": "/Users/vadim/Downloads/TeamHost /TeamHost.Shared/obj/",
+      "outputPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vadim/.nuget/NuGet/NuGet.Config"

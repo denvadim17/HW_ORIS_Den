@@ -1,0 +1,136 @@
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.3457E118.Up2Date
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.sourcelink.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+/Users/vadim/Downloads/TeamHost 2/TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+/Users/vadim/Downloads/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.sourcelink.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.deps.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.runtimeconfig.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.sourcelink.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.csproj.CopyComplete
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/refint/TeamHost.Persistence.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/TeamHost.Persistence.genruntimeconfig.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw11/TeamHost /TeamHost.Persistence/obj/Debug/net8.0/ref/TeamHost.Persistence.dll

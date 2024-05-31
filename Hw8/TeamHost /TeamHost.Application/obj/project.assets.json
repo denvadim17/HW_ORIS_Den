@@ -1007,11 +1007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vadim/Downloads/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
+      "projectUniqueName": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
       "projectName": "TeamHost.Application",
-      "projectPath": "/Users/vadim/Downloads/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
+      "projectPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
       "packagesPath": "/Users/vadim/.nuget/packages/",
-      "outputPath": "/Users/vadim/Downloads/TeamHost /TeamHost.Application/obj/",
+      "outputPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vadim/.nuget/NuGet/NuGet.Config"
@@ -1026,8 +1026,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/vadim/Downloads/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj": {
-              "projectPath": "/Users/vadim/Downloads/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj"
+            "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj": {
+              "projectPath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/TeamHost.Domain.csproj"
             }
           }
         }

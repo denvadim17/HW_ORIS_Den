@@ -27,12 +27,5 @@ public class RegisterViewModel
     [Required]
     public string UserName { get; set; }
 
-    /// <summary>
-    /// Подтверждение пароля
-    /// </summary>
-    [DataType(DataType.Password)]
-    [Display(Name = "Confirm password")]
-    [Compare("Password",
-        ErrorMessage = "Password and confirmation password do not match.")]
-    public string ConfirmPassword { get; set; }
+    
 }

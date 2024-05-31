@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUVSWaHJIBDu34XY2DaZJ25UKeGUbaNcfJH+DiiBIpx5LVxMpiYg9MK592mg0y++7DRljGl1F4RgYEvWULh4MA==",
+  "dgSpecHash": "JWMF/tNng5CrWIfacky/u60t+pWuhzVPm3njXrKvu4Ugn1YiyQx6P88fd2j4H9ZfhUOwDtFimsFQOIKdNTm81A==",
   "success": true,
-  "projectFilePath": "/Users/vadim/Downloads/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+  "projectFilePath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/vadim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],

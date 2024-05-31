@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gvMOWsCSx92QvLE/Gxax2uDpi20WcClGfcpFYDld85cIj+QHc+OxX1CRqyWhI3jSeaUPFdO0BQUU9HtNCnOS5w==",
+  "dgSpecHash": "80iOqSO/op0QCe/zrBMjNZWSBgKSOi97AX88PjfDfXIG9Zbn/FKLpIQijY6T6fOEKUlbJqTa+aGZ0a9nSpIRKw==",
   "success": true,
-  "projectFilePath": "/Users/vadim/Downloads/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
+  "projectFilePath": "/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Application/TeamHost.Application.csproj",
   "expectedPackageFiles": [
     "/Users/vadim/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vadim/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",

@@ -1,0 +1,100 @@
+﻿@using TeamHost.Web.Areas.Friends.Models
+@model FriendsViewModel
+
+@{
+    ViewData["Title"] = "Friends";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="uk-grid" data-uk-grid>
+    <div class="uk-width-2-3@xl">
+        <div class="widjet --filters">
+            <div class="widjet__head">
+                <h3 class="uk-text-lead">Friends</h3>
+            </div>
+            <div class="widjet__body">
+                <div class="uk-grid uk-flex-middle uk-grid-small" data-uk-grid>
+                    <div class="uk-width-expand@s">
+                        <div class="search">
+                            <div class="search__input">
+                                <i class="ico_search"></i>
+                                <form asp-action="Index" method="get">
+                                    <input type="search" name="searchTerm" placeholder="Search" value="@Model.SearchTerm">
+                                    <button type="submit">Search</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @if (Model.SearchResults.Any())
+        {
+            <div class="uk-grid uk-grid-small uk-child-width-1-2@m" data-uk-grid>
+                <h3 class="uk-text-lead">Search Results</h3>
+                @foreach (var user in Model.SearchResults)
+                {
+                    <div>
+                        <div class="user-item">
+                            <div class="user-item__avatar"><img src="~/img/user-list-1.png" alt="user"></div>
+                            <div class="user-item__box">
+                                <div class="user-item__name">@user.FirstName @user.LastName</div>
+                                <div class="user-item__actions">
+                                    <form asp-action="AddFriend" method="post">
+                                        <input type="hidden" name="friendId" value="@user.Id" />
+                                        <button type="submit" class="btn btn-primary">Add Friend</button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="user-item__more"><a class="ico_more" href="#!"></a></div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        <div class="uk-grid uk-grid-small uk-child-width-1-2@m" data-uk-grid>
+            <h3 class="uk-text-lead">Your Friends</h3>
+            @foreach (var friend in Model.Friends)
+            {
+                <div>
+                    <div class="user-item">
+                        <div class="user-item__avatar"><img src="~/img/user-list-1.png" alt="user"></div>
+                        <div class="user-item__box">
+                            <div class="user-item__name">@friend.FirstName @friend.LastName</div>
+                        </div>
+                        <div class="user-item__more"><a class="ico_more" href="#!"></a></div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="uk-width-1-3@xl">
+        <div class="widjet --friend-requests">
+            <div class="widjet__head">
+                <h3 class="uk-text-lead">Friend Requests</h3>
+            </div>
+            <div class="widjet__body">
+                <ul class="friend-requests-list">
+                    @* Display friend requests *@
+                    @foreach (var friendRequest in Model.FriendRequests)
+                    {
+                        <li class="friend-requests-item">
+                            <div class="friend-requests-item__avatar"><img src="~/img/user-list-5.png" alt="user"></div>
+                            <div class="friend-requests-item__name">@friendRequest.User.FirstName @friendRequest.User.LastName</div>
+                            <div class="friend-requests-item__action">
+                            <form asp-action="AcceptFriend" method="post" style="display:inline;">
+                                <input type="hidden" name="friendId" value="@friendRequest.User.Id" />
+                                <button class="confirm ico_tick-circle" type="submit"></button>
+                            </form>
+                            <form asp-action="RejectFriend" method="post" style="display:inline;">
+                                <input type="hidden" name="friendId" value="@friendRequest.User.Id" />
+                                <button class="reject ico_trash" type="submit"></button>
+                            </form>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

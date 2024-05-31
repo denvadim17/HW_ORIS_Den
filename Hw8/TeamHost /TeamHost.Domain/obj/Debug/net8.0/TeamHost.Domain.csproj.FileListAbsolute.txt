@@ -59,3 +59,16 @@ C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.Do
 /Users/vadim/Downloads/TeamHost /TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
 /Users/vadim/Downloads/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
 /Users/vadim/Downloads/TeamHost /TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.deps.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.sourcelink.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll

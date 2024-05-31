@@ -59,3 +59,16 @@ C:/Users/mixov/Downloads/Telegram Desktop/TeamHost/TeamHost/TeamHost/TeamHost.In
 /Users/vadim/Downloads/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
 /Users/vadim/Downloads/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
 /Users/vadim/Downloads/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.sourcelink.json
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll

@@ -17,107 +17,107 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeamHost.Web
 build_property.RootNamespace = TeamHost.Web
-build_property.ProjectDir = /Users/vadim/Downloads/TeamHost /TeamHost/
+build_property.ProjectDir = /Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/vadim/Downloads/TeamHost /TeamHost
+build_property.MSBuildProjectDirectory = /Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Account/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Account/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Account/Views/_ViewImports.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Account/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Auth/Views/Login/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Auth/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQXV0aC9WaWV3cy9Mb2dpbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Auth/Views/Register/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Auth/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQXV0aC9WaWV3cy9SZWdpc3Rlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Chats/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Chats/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ2hhdHMvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Community/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Community/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ29tbXVuaXR5L1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Favourites/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Favourites/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRmF2b3VyaXRlcy9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Friends/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Friends/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRnJpZW5kcy9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/GameProfile/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/GameProfile/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvR2FtZVByb2ZpbGUvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/GameProfile/Views/_ViewImports.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/GameProfile/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvR2FtZVByb2ZpbGUvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Market/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Market/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFya2V0L1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Store/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvU3RvcmUvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Store/Views/_ViewImports.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvU3RvcmUvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Streams/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Streams/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvU3RyZWFtcy9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Areas/Wallet/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Areas/Wallet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvV2FsbGV0L1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Home/Index.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Home/Privacy.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Shared/Error.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Shared/_Header.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Shared/_SideBar.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/_ViewImports.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/_ViewStart.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vadim/Downloads/TeamHost /TeamHost/Views/Shared/_Layout.cshtml]
+[/Users/vadim/Documents/homeworks/HW_ORIS_Den/Hw8/TeamHost /TeamHost/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v2zf5t5zak
